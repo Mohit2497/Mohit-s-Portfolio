@@ -9,6 +9,9 @@ I selected this project to leverage my skills in Tableau and Excel to utilize th
 * Examined fatalities based on weather conditions and road surfaces.
 * Tools: Tableau for visualization, and Excel for data cleaning.
 
+![Road Accident Analysis Dashboard](https://github.com/Mohit2497/Mohit-s-Portfolio/assets/68893690/64a3dec2-34ff-41e9-8ac9-728f46bd7927)
+
+
 # [Project 2: Suicide Rate Analysis (1985-2016)](https://github.com/Mohit2497/Suicide-Rate-Analysis_1985-2016)
 The goal of this project is to uncover insights driven by the desire to understand and raise awareness about this critical societal issue.
 * Analyzed suicide rates globally over 3 decades considering various columns from the dataset.
@@ -16,3 +19,5 @@ The goal of this project is to uncover insights driven by the desire to understa
 * Used Python for data processing and data wrangling.
 * Created an interactive Google Site by combining all the dynamic charts developed in Flourish.
 * Tools: Flourish Studio for data visualization, and Python for data cleaning and data wrangling.
+
+![Suicide Rate Analysis](https://github.com/Mohit2497/Mohit-s-Portfolio/assets/68893690/ded78f5d-d237-4be8-b02f-beb259dc9d11)
