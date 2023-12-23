@@ -1,4 +1,3 @@
-# Mohit's Portfolio
 # [Project 1: UK Road Accident Analysis](https://github.com/Mohit2497/UK-Road-Accident-Analysis)
 I selected this project to leverage my skills in Tableau and Excel to utilize them for data cleaning, data visualization, and data analysis.
 * Explored and visualized UK road accident data (2019-2022) using Tableau.
