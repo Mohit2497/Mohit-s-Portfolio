@@ -10,7 +10,7 @@ I selected this project to leverage my skills in Tableau and Excel to utilize th
 * Tools: Tableau for visualization, and Excel for data cleaning.
 
 # [Project 2: Suicide Rate Analysis (1985-2016)](https://github.com/Mohit2497/Suicide-Rate-Analysis_1985-2016)
-The goal of this project is to uncover insights driven by the desire to understand and raise awareness about this critical societal issue
+The goal of this project is to uncover insights driven by the desire to understand and raise awareness about this critical societal issue.
 * Analyzed suicide rates globally over 3 decades considering various columns from the dataset.
 * Created interactive visualizations for clear communication.
 * Used Python for data processing and data wrangling.
